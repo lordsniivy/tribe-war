@@ -27,4 +27,6 @@ D: Move Right
 
 SPACE: Shoot
 
-### 
+### Music Credits
+
+Second Strike - potato-tan
