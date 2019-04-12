@@ -30,3 +30,5 @@ SPACE: Shoot
 ### Music Credits
 
 Second Strike - potato-tan
+
+All sound effects used are licensed under the Creative Commons, and were taken from [freesound.org] (https://freesound.org/)
