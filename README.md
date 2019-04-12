@@ -27,7 +27,13 @@ D: Move Right
 
 SPACE: Shoot
 
-### Music Credits
+## Credits
+
+### Image
+
+The Player, Enemy, and Fireball sprites were created by me, and thus, are owned by me. Redistribution or reproduction of these sprites 
+
+### Music
 
 Second Strike - potato-tan
 
