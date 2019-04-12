@@ -25,5 +25,7 @@ You are a Red Scale, a tribe of Dragons that dwell in mountainous regions. It is
 ### Instructions
 
 A: Move Left
+
 D: Move Right
+
 SPACE: Shoot
