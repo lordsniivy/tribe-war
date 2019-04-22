@@ -37,7 +37,10 @@ Home Screen
 ![Home Screen](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/home%20screen.PNG)
 
 Gameplay
-![Gameplay]()
+![Gameplay](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/Gameplay.PNG)
+
+Game Over
+![Game Over]()
 
 ## Credits
 
