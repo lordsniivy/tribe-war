@@ -25,16 +25,28 @@ A: Move Left
 
 D: Move Right
 
-SPACE: Shoot
+SPACE: Start/Shoot
+
+### Goal
+
+Survive as long as possible!
+
+## Screenshots
+
+
 
 ## Credits
 
-### Image
+### Images
 
-The Player, Enemy, and Fireball sprites were created by me, and thus, are owned by me. Redistribution or reproduction of these sprites 
+The Player, Enemy, and Fireball sprites were created by me, and thus, are owned by me. Redistribution or reproduction of these sprites is prohibited without permission from me.
 
 ### Music
 
-Second Strike - potato-tan
+Second Strike  - potato-tan
 
 All sound effects used are licensed under the Creative Commons, and were taken from [freesound.org] (https://freesound.org/)
+
+### Fonts
+
+Any and all fonts used in the production of Tribe War were taken from [1001 Fonts] (https://www.1001fonts.com/)
