@@ -49,4 +49,4 @@ All sound effects used are licensed under the Creative Commons, and were taken f
 
 ### Fonts
 
-Any and all fonts used in the production of Tribe War were taken from [1001 Fonts] (https://www.1001fonts.com/)
+Any and all fonts used in the production of Tribe War were taken from [1001Fonts.com] (https://www.1001fonts.com/)
