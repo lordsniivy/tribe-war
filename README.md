@@ -42,6 +42,12 @@ Gameplay
 Game Over
 ![Game Over](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/Game%20Over.PNG)
 
+Red Scale (Player)
+![Player](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/assets/images/Dragon.png)
+
+Shimmer Tail (Enemy)
+![Enemy](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/assets/images/Dragon%20ENEMY.png)
+
 ## Credits
 
 ### Images
