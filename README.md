@@ -33,7 +33,11 @@ Survive as long as possible!
 
 ## Screenshots
 
+Home Screen
 ![Home Screen](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/home%20screen.PNG)
+
+Gameplay
+![Gameplay]()
 
 ## Credits
 
