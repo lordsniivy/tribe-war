@@ -33,7 +33,7 @@ Survive as long as possible!
 
 ## Screenshots
 
-![Home Screen] (https://raw.githubusercontent.com/lordsniivy/tribe-war/master/home%20screen.PNG)
+![Home Screen](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/home%20screen.PNG)
 
 ## Credits
 
@@ -45,8 +45,8 @@ The Player, Enemy, and Fireball sprites were created by me, and thus, are owned 
 
 Second Strike  - potato-tan
 
-All sound effects used are licensed under the Creative Commons, and were taken from [freesound.org] (https://freesound.org/)
+All sound effects used are licensed under the Creative Commons, and were taken from [freesound.org](https://freesound.org/)
 
 ### Fonts
 
-Any and all fonts used in the production of Tribe War were taken from [1001Fonts.com] (https://www.1001fonts.com/)
+Any and all fonts used in the production of Tribe War were taken from [1001Fonts.com](https://www.1001fonts.com/)
