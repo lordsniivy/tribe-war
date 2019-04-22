@@ -40,7 +40,7 @@ Gameplay
 ![Gameplay](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/Gameplay.PNG)
 
 Game Over
-![Game Over]()
+![Game Over](https://raw.githubusercontent.com/lordsniivy/tribe-war/master/Game%20Over.PNG)
 
 ## Credits
 
