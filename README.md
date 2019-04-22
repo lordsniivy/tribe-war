@@ -46,7 +46,7 @@ Game Over
 
 ### Images
 
-The Player, Enemy, and Fireball sprites were created by me, and thus, are owned by me. Redistribution or reproduction of these sprites is prohibited without permission from me.
+The Player, Enemy, and Fireball sprites were created by me, and thus, are owned by me. Redistribution or reproduction of these sprites is prohibited without permission.
 
 ### Music
 
