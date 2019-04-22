@@ -33,7 +33,7 @@ Survive as long as possible!
 
 ## Screenshots
 
-![]
+![Home Screen] (home screen.png)
 
 ## Credits
 
